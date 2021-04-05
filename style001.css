@@ -1,0 +1,19 @@
+body {
+    background-color: cyan;
+  }
+  
+h1 {
+    color: brown;
+    margin-left: 20px;
+    text-align: center;
+    text-shadow: 2px 2px 2px red;
+}
+  }
+body.groove {border-style: groove;}
+h3 {
+    color: green;
+    text-decoration: underline;
+  }
+  ol.b {
+    list-style-position: inside;
+  }
